@@ -123,6 +123,24 @@
 
 ---
 
+### 2.5 案例：岡倉天心《The Book of Tea》與「art of life 的宗教」
+
+定位：作為一個外部經典案例，示範單一語彙在不同實踐與時間結構下的語義泛性變形。對應檔案位於：
+
+- `30_案例分析/Book of Tea · Religion of the Art of Life.md`
+
+主要工作：
+
+- 以《The Book of Tea》中 `religion`／`religious` 的 11 處出現為語料，重建岡倉在文本內部對「宗教」的工作定義。
+- 區分：
+  - 以終極 Future 為核心的「典型宗教時間」：`In religion the Future is behind us.`
+  - 以 present-as-eternal 的生活藝術為核心的「art of life 的宗教」：`a religion of aestheticism`、`a religion of the art of life`。
+- 說明岡倉如何用同一語彙，既承接西方救贖宗教的時間結構，又為東亞生活美學與茶道實踐奪取「宗教級別」的位置，提供語義泛性理論的經典範例。
+
+本案例可與時間性模組、茶道節律 OS 以及「art of life」相關文本互相參照，用來校正「宗教」「普遍性」「生活技藝」等詞在本計畫中的使用範圍。
+
+---
+
 ## 3. 與其他模組的關係
 
 1. **與語境基底化論／LLM methodology**
@@ -161,6 +179,10 @@
 
 4. **《有我與自反性的等價類結構》**  
    理解「有我」作為基點時，反思結構如何塌縮為若干等價類，並為之後的自反性動力學選定默認基底。
+
+5. **案例與外部典範（選讀）**  
+   - `Time Phenomenology · Mini Cases.md`：以日常場景測試時間性 lemma。  
+   - `Book of Tea · Religion of the Art of Life.md`：觀察 `religion` 一詞在不同時間結構與實踐中的語義泛性變形，作為「art of life 的宗教」與茶道節律 OS 的外部參照。
 
 技術與實作層的讀者，可在讀完 1 以及時間性模組的 overview 後，  
 直接跳至 LLM methodology 相關文件（如：語境相容性 overview、GPT 三重角色備忘錄），  

@@ -81,6 +81,51 @@ If a past node $t_0$ has acquired the universal-like role described in Lemma T2 
 層級：時間構形層與心念層交界。  
 用途：連接現象學上「妄念的反覆湧現」與範疇語言中的 factorization 穩定性，為後續邪見與我執的刻畫提供時間面向。
 
+
+
+---
+
+### Lemma T4（創傷與貪取作為 retro / pro 閉合模式）
+
+**中文敘述**
+
+在固定主題 $\theta$ 下，設自我敘事被建模為一個範疇 $\mathcal{C}_\theta$，其對象與態射帶有時間標記，並配備一個「將來性結構」$F_\theta$，描述主體對未來情境的預期與承諾。
+
+在此設定下，可以區分兩類與時間相關的「閉合」（closure）運算：
+
+1. **retro-closure（向過去的閉合）**  
+   主體試圖為一段已過去的時間區間 $[t_0, t_1]$ 找到一個在當前自我敘事中「說得過去」的整體敘事節點 $u$，使得該區間內的重要事件皆經由 $u$ 被吸收、解釋與整合。若此種閉合在多次嘗試後仍系統性失敗，且主體反覆被該區間「拉回去」，則可將此現象刻畫為**創傷型苦**：  
+   一種 retro-closure 長期失效的狀態。
+
+2. **pro-closure（向未來的閉合）**  
+   主體在當下對某一未來時間區間 $[t_1, t_2]$ 進行預先閉合：假設只要出現某個關鍵構形（典型地是與他者之間的某種關係、成就、擁有狀態），就能為那一整段未來時間提供一個「完成版的我」作為收束。當這種預先閉合高度依賴對外在對象／五蘊的挪用，且在現實因緣下難以成立，卻持續強勢運作時，我們將之稱為**貪取型苦**：  
+   一種 pro-closure 過度施力、且幾乎註定無法乾淨完成的狀態。
+
+在此意義下，創傷與貪取並非兩種「完全不同」的心理現象，而是同一種「在局部時間區間上要求自我敘事閉合」的運算，在時間向上的兩種典型表現：
+
+- 創傷：retro-closure 的系統性失敗，否定了某一段「我早已是那樣的人」的自我敘事。  
+- 貪取（appropriative craving）：pro-closure 的過度施力，試圖透過挪用外在五蘊，預先保證「我將會成為那樣的人」。
+
+此 Lemma 的目的，不在於心理分類，而在於給出一個時間性框架，使「創傷重播」與「欲望暴衝」可以被視為同一種 closure operator 在不同時間向上的失衡，方便後續在 `30_案例分析/` 中進行現象學與場域分析。
+
+**English formulation**
+
+Let self-narrative for a given theme $\theta$ be modeled as a category $\mathcal{C}_\theta$ equipped with a temporal structure and a future-structure $F_\theta$.
+
+We distinguish two closure-like operations:
+
+1. **Retro-closure.**  
+   Given a past interval $[t_0, t_1]$, the subject attempts to "close" it by factoring the relevant morphisms through a node $u \in \mathcal{C}_\theta$ that makes the whole stretch narratively acceptable (a locally justifiable "who I was" on that interval). Persistent failure of such retro-closure, together with repeated intrusive returns of this interval, is what we call **trauma-type suffering**: a chronic breakdown of retro-closure.
+
+2. **Pro-closure.**  
+   Given a future interval $[t_1, t_2]$, the subject attempts a *pre-emptive closure* by positing that the occurrence of some configuration (typically a relation to another person or aggregate, or a possession/achievement) will guarantee a future "completed self" on that interval. When this pro-closure heavily depends on **appropriation of external aggregates** and is structurally unlikely to be fulfilled under actual conditions, yet remains affectively dominant, we call this **appropriative craving-type suffering**.
+
+Under this lens, trauma and appropriative craving are not two unrelated phenomena but two temporal faces (retro and pro) of the same tendency:
+
+> the demand that on any given stretch of time there must exist a narratively closed, "justifiable" self.
+
+This lemma is intended as a structural bridge between the abstract time-universality framework and concrete phenomenological cases (cf. `30_案例分析/`), rather than as a replacement for clinical or doctrinal taxonomies.
+
 ---
 
 ## 2. Family S — Meaningful Thought Implies Semantic Genericity
